@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tuto Part 2", "Tuto Part 1\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tuto Part 3 - Snake", "Tuto Part 3 - Snake\Tuto Part 3 - Snake.vcxproj", "{88214C3E-F4F3-4F2A-A560-DCE9A708AF8E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tuto Part 4 - Events", "Tuto Part 4 - Events\Tuto Part 4 - Events.vcxproj", "{2B8403FA-37BB-4D1B-A5D4-4B42A13D7173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{88214C3E-F4F3-4F2A-A560-DCE9A708AF8E}.Release|x64.Build.0 = Release|x64
 		{88214C3E-F4F3-4F2A-A560-DCE9A708AF8E}.Release|x86.ActiveCfg = Release|Win32
 		{88214C3E-F4F3-4F2A-A560-DCE9A708AF8E}.Release|x86.Build.0 = Release|Win32
+		{2B8403FA-37BB-4D1B-A5D4-4B42A13D7173}.Debug|x64.ActiveCfg = Debug|x64
+		{2B8403FA-37BB-4D1B-A5D4-4B42A13D7173}.Debug|x64.Build.0 = Debug|x64
+		{2B8403FA-37BB-4D1B-A5D4-4B42A13D7173}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B8403FA-37BB-4D1B-A5D4-4B42A13D7173}.Debug|x86.Build.0 = Debug|Win32
+		{2B8403FA-37BB-4D1B-A5D4-4B42A13D7173}.Release|x64.ActiveCfg = Release|x64
+		{2B8403FA-37BB-4D1B-A5D4-4B42A13D7173}.Release|x64.Build.0 = Release|x64
+		{2B8403FA-37BB-4D1B-A5D4-4B42A13D7173}.Release|x86.ActiveCfg = Release|Win32
+		{2B8403FA-37BB-4D1B-A5D4-4B42A13D7173}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
