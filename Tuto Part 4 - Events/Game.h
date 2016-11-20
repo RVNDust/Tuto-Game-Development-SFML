@@ -21,6 +21,7 @@ public:
 	float GetElapsed();
 	void RestartClock();
 
+	void MoveSprite(EventDetails* l_details);
 private:
 	void MoveMushroom();
 
@@ -31,9 +32,6 @@ private:
 
 	sf::Clock m_clock;
 	float m_elapsed;
-
-	World m_world;
-	Snake m_snake;
 
 	Textbox m_textbox;
 };
